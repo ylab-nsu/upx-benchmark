@@ -1,5 +1,5 @@
 Структура проекта:
-
+```
 benchmark
     build
         aarch64
@@ -18,7 +18,7 @@ benchmark
         upx_arm
         upx_riscv
     scripts
-
+```
 
 Как пользоваться данной версией бенчмарка:
 (Все скрипты запускаются из директории benchmark)
